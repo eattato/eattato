@@ -33,7 +33,7 @@
 <br /><br />
 
 <h1>Stats</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=eattato&show_icons=true&theme=great-gatsby" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=eattato&show_icons=true&theme=great-gatsby" width="70%" />
 <br /><br />
 <img src="https://ghchart.rshah.org/FFAA00/eattato" width="90%" />
 
